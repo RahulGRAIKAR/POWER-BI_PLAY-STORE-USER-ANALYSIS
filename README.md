@@ -76,6 +76,8 @@ Solved by: Showing how much revenue is coming from each payment method, helping 
 Power-BI Dashboard:https://github.com/RahulGRAIKAR/POWER-BI_PLAY-STORE-USER-ANALYSIS/blob/main/Power-BI%20Dashboard_Playstore_user%20reviews_analysis_powerbi.pbix
 
 Dashboard Image-1:https://github.com/RahulGRAIKAR/POWER-BI_PLAY-STORE-USER-ANALYSIS/blob/main/Playstore_Dashboard_1.PNG
+
 Dashboard Image-2:https://github.com/RahulGRAIKAR/POWER-BI_PLAY-STORE-USER-ANALYSIS/blob/main/Playstore_Dashboard_2.PNG
+
 Dashboard Image-3:https://github.com/RahulGRAIKAR/POWER-BI_PLAY-STORE-USER-ANALYSIS/blob/main/Playstore_Dashboard_3.PNG
 
