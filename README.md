@@ -71,3 +71,6 @@ Solved by: Mapping sales performance across regions and linking with preferred p
 6. Payment Channel Optimization
 
 Solved by: Showing how much revenue is coming from each payment method, helping optimize payment gateway partnerships
+
+
+Power-BI Dashboard:https://github.com/RahulGRAIKAR/POWER-BI_PLAY-STORE-USER-ANALYSIS/blob/main/Power-BI%20Dashboard_Playstore_user%20reviews_analysis_powerbi.pbix
