@@ -3,7 +3,6 @@ This project involves the development of a comprehensive and interactive Power B
 The primary goal of the project was to extract valuable business insights from massive app store data and present it in a visually compelling and easily interpretable format for stakeholders such as product managers, developers, and marketing teams.
 
 
-This Flipkart Sales Analytics Dashboard in Power BI provides a comprehensive view of sales performance, customer behavior, product category trends, and regional demand. It is designed to support data-driven decisions by presenting key metrics like total sales, average ratings, quantity sold, and payment preferences.
 
 
 
